@@ -57,7 +57,7 @@ This project is inspired by **Microsoft's RD-Agent(Q)**, a multi-agent framework
 - **Paper:** [R&D-Agent-Quant (arXiv:2505.15155)](https://arxiv.org/abs/2505.15155) — licensed CC BY-NC-SA 4.0
 - **Code:** [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) — licensed MIT
 
-Third-party components and their licenses are recorded in [NOTICE](./NOTICE).
+Third-party components and their licenses are recorded in [NOTICE](./NOTICE.md).
 
 ## Citation
 
@@ -65,9 +65,9 @@ If you reference this competition or benchmark, please cite it using the metadat
 
 ## License
 
-**Proprietary — all rights reserved.** See [LICENSE](./LICENSE).
+**Proprietary — all rights reserved.** See [LICENSE](./LICENSE.md).
 
-The contents of this repository may not be used, copied, modified, distributed, or used to create derivative works without express prior written permission of the copyright holders. Third-party components remain under their own licenses (see [NOTICE](./NOTICE)).
+The contents of this repository may not be used, copied, modified, distributed, or used to create derivative works without express prior written permission of the copyright holders. Third-party components remain under their own licenses (see [NOTICE](./NOTICE.md)).
 
 Copyright (c) 2026 momo and hayatest. All rights reserved.
 
