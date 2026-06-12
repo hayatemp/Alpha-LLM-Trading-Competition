@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "All rights reserved. If you draw on this competition or benchmark, please cite it as below."
+title: "Alpha LLM Trading Competition"
+authors:
+  - alias: momo
+  - alias: hayatest
+date-released: 2026-01-01
+url: "https://github.com/hayatest/Alpha-LLM-Trading-Competition"
